@@ -24,19 +24,19 @@ body {
   height: 494px;
 }
 
- .ryu-throwing {
-  display:block;
+ .ryu-throwing, .ryu-ready {
+  display:none;
 }
 
 .ryu-ready {
   background-image: url("../images/ryu-ready-position.gif");
-  display:none;
+
 
 }
 
 .ryu-still {
   background-image: url("../images/ryu-standing-still.png");
-  display:none;
+
 }
 
 .ryu-throwing {
