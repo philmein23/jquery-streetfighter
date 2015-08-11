@@ -19,6 +19,10 @@ body {
   height:494px;
 }
 
+.ryu {
+  overflow:hidden;
+}
+
 .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
   width: 659px;
   height: 494px;

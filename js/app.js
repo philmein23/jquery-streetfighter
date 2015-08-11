@@ -39,11 +39,13 @@ $(document).ready(function() {
       $(".ryu-cool").show();
       $(".ryu-still").hide();
       $(".ryu-ready").hide();
+
     };
   }).keyup(function(e) {
     if (e.which == 88) {
       $(".ryu-cool").hide();
       $(".ryu-still").show();
+
     }
   });
 
