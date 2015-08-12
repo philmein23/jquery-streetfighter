@@ -14,6 +14,21 @@ body {
 
 }
 
+.instructions {
+  margin-left:700px;
+  margin-top:50px;
+  width:250px;
+  font-size:2em;
+  position:absolute;
+}
+
+.instructionstwo {
+  position:absolute;
+  padding-left:900px;
+  margin-top:200px;
+  font-size:2em;
+}
+
 .ryu {
   width:659px;
   height:494px;
