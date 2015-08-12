@@ -15,7 +15,7 @@ body {
 }
 
 .instructions {
-  margin-left:700px;
+  margin-left:600px;
   margin-top:50px;
   width:250px;
   font-size:2em;
@@ -24,9 +24,10 @@ body {
 
 .instructionstwo {
   position:absolute;
-  padding-left:900px;
+  padding-left:750px;
   margin-top:200px;
   font-size:2em;
+  width:250px;
 }
 
 .ryu {
